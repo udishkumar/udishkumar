@@ -27,16 +27,6 @@ I am exploring Technical Content Writing alongside my development work to help d
 ⚡ **Beyond Code:**  
 In my downtime, I enjoy solving algorithmic puzzles on platforms like GeeksforGeeks and staying updated with the latest in technology through various articles.
 
-🎓 **Education:**  
-Currently pursuing a Master's in Computer Science at the University of Southern California, diving deep into subjects like Web Technologies, Database Systems, and Security Systems.
-
-💼 **Professional Experience:**  
-**Lead Engineer at NTT Data:**  
-Led the development of an Operational Data Store using Flask and AJAX, significantly enhancing data handling and integration.
-
-**Associate Software Engineer at Software AG:**  
-Enhanced user engagement by developing and supporting an interactive web portal for health programs using Angular.
-
 🛠️ **Technical Toolkit:**  
 **Programming Languages:** Java, Python, JavaScript, HTML, CSS  
 **Frameworks/Technologies:** Angular, React.js, Node.js, Flask, Django, AWS, GCP, Azure  
