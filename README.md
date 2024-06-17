@@ -40,9 +40,9 @@ I am passionate about building responsive and scalable web applications and have
 - **API & Testing**: RESTful API, Postman, SOAP-UI, JUnit
 
 #### 🚀 Featured Projects:
-- **[FindMyProduct](https://play.google.com/store/apps/details?id=com.example.findmyproduct)**: An Android app for product searching using Kotlin and MongoDB. Integrated with Facebook Authenticator.
-- **[Smart Shopper](https://github.com/udishkumar/smart-shopper)**: A full-fledged product search website built with Angular, Bootstrap, and Node.js.
-- **[Quick Cart](https://github.com/udishkumar/quick-cart)**: A web portal for product search using Flask, AJAX, and MongoDB.
+- **[FindMyProduct](https://play.google.com/store/apps/details?id=com.udish.ebaysearch)**: An Android app for product searching using Kotlin and MongoDB. Integrated with Facebook Authenticator.
+- **[Smart Shopper](https://uk-hw3.wl.r.appspot.com/)**: A full-fledged product search website built with Angular, Bootstrap, and Node.js.
+- **[Quick Cart](https://myfirstpython-3979650766.wl.r.appspot.com/)**: A web portal for product search using Flask, AJAX, and MongoDB.
 - **Sabziwala**: An Android application with PayPal Sandbox and Facebook SDK integration for easy and secure transactions.
 
 #### 🏫 Education:
