@@ -47,7 +47,7 @@ I am passionate about building responsive and scalable web applications and have
 
 #### 🏫 Education:
 - **Master of Science in Computer Science** - University of Southern California (Jan 2023 – Dec 2024)
-  - **Relevant Coursework**: Analysis of Algorithms, Security Systems, Web Technologies, Database Systems
+  - **Relevant Coursework**: Analysis of Algorithms, Security Systems, Web Technologies, Database Systems, Information Retrieval and Web Search Engines
 
 ### 🔗 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/iudishkumar/)
