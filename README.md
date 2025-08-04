@@ -1,7 +1,7 @@
 # Udish Kumar | Senior Full Stack Engineer
 
 > **Driving Business Growth Through Scalable Technology Solutions**  
-> MS Computer Science @ USC | $620K+ Revenue Impact | Cloud & API Architecture Expert
+> MS Computer Science @ USC | $620K+ Revenue Impact | Full Stack Developer | Cloud & API Architecture Expert
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/iudishkumar)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:udishkum@usc.edu)
